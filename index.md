@@ -8,3 +8,7 @@ Prueba 3
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+### Prueba lista
+- [ ] Opcion 1
+- [ ] Opcion 2
+- [ ] Opcion 3
